@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there! I'm Yuping Lin.
+
+- 🌐**Language**: :gb:English, :cn:Chinese
+- 🔭**Status**: First-year Computer Science PhD student at Michigan State University
+- 🌱**Currently Learning**: GNN, Adversarial Attack
+- 📫**Contact**: linyupin[at]msu[at]edu
+- 👯Collaboration & communication welcomed!
 
 <!--
 **yuplin2333/yuplin2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
