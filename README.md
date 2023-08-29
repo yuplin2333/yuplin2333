@@ -4,7 +4,6 @@
 - 🔭**Status**: First-year Computer Science PhD student at Michigan State University
 - 🌱**Currently Learning**: Trustworthy AI
 - 📫**Contact**: linyupin[at]msu[at]edu
-- 😄**Pronouns**: He/him
 - 👯Collaboration & communication welcomed!
 
 <!--
