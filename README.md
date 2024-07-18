@@ -1,9 +1,9 @@
 ### 👋 Hi there! I'm Yuping Lin.
 
 - 🌐**Language**: :gb:English, :cn:Chinese
-- 🔭**Status**: First-year Computer Science PhD student at Michigan State University
-- 🌱**Currently Learning**: Trustworthy AI
-- 📫**Contact**: linyupin[at]msu[at]edu
+- 🔭**Status**: Computer Science PhD student at Michigan State University
+- 🌱**Field**: Trustworthy AI, NLP
+- 📫**Contact**: linyupin [at] msu [at] edu
 - 👯Collaboration & communication welcomed!
 
 <!--
